@@ -12,7 +12,7 @@ public class disarium {
 		
 		int lenght = String.valueOf(a).length();
 		System.out.println(lenght);
-		int lenght2 = (int)(Math.log10(a)+1);//Fatklý bir basamak öðrenme þekli
+		int lenght2 = (int)(Math.log10(a)+1); 
 		System.out.println(lenght2);
 		
 		while(oA>0) {

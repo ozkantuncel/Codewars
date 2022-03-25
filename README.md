@@ -1,2 +1,0 @@
-# Codewars
-My Codewars solutions
